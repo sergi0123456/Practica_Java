@@ -9,7 +9,7 @@ public class practica {
 		int[] prodArray = {6, 8, 20, 23, 12};
 		
 		// User 1 fer la suma dels elements de sumArray
-		for(var i = 0; i <= sumArray.length; i++){
+		for(var i = 0; i < sumArray.length; i++){
         numero = sumArray[i];
         suma += numero;
     }
